@@ -797,7 +797,8 @@ p {
   font-family: "Nunito", serif;
   font-size: 19px;
   line-height: 180%;
-  color: #fefefe;
+  /* color: #fefefe; */
+  color: red;
   text-transform: capitalize;
 }
 /* footer section start  */
